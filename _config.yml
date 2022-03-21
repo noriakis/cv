@@ -62,7 +62,7 @@ content:
     background-position: 400px;
     width: 200px;
     height: 200px;
-    border-radius:100%;
+    border-radius:　100%;
     border: solid 0.5em rgba(144, 144, 144, 0.5);">
     </center>
     <br>
@@ -74,7 +74,7 @@ content:
     background-position: 360px;
     width: 200px;
     height: 200px;
-    border-radius:100%;
+    border-radius:　100%;
     border: solid 0.5em rgba(144, 144, 144, 0.5);">
     </center>
 # Footer
