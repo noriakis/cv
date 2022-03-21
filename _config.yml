@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Packages
-title: Helping the transcriptome analysis
+title: helping the transcriptome analysis
 website: github.com/noriakis
 
 # Dark Mode (true/false/never)
@@ -55,7 +55,10 @@ content:
   - title: Packages
     layout: text
     content: | 
+      <center>
       <div style="display: flex">
+
+      <a href="https://github.com/noriakis/CBNplot">
       <div>
       <center>CBNplot</center>
       <center>
@@ -71,6 +74,9 @@ content:
        </div>
       </center>
       </div>
+      </a>
+
+      <a href="https://github.com/noriakis/wcGeneSummary">
       <div>
       <center>wcGeneSummary</center>
       <center>
@@ -87,6 +93,8 @@ content:
       </center>
       </div>
       </div>
+      </a>
+      </center>
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
