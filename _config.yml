@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Packages
 title: Helping the transcriptome analysis
-website: github.com/noriakis/cv
+website: github.com/noriakis
 
 # Dark Mode (true/false/never)
 darkmode: true
