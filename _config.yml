@@ -54,6 +54,8 @@ content:
   - title: Packages
     layout: text
     content: | 
+      <div style="display: flex">
+      <div>
       <center>CBNplot</center>
       <center>
         <div style="
@@ -63,10 +65,12 @@ content:
         width: 200px;
         height: 200px;
         border-radius: 100%;
-        border: solid 0.5em rgba(144, 144, 144, 0.5);">
+        background-clip: content-box;
+        border: solid 0.5em rgba(144, 144, 144, 0.25);">
        </div>
       </center>
-      <br>
+      </div>
+      <div>
       <center>wcGeneSummary</center>
       <center>
         <div style="
@@ -76,9 +80,12 @@ content:
         width: 200px;
         height: 200px;
         border-radius: 100%;
-        border: solid 0.5em rgba(144, 144, 144, 0.5);">
-       </div>
+        background-clip: content-box;
+        border: solid 0.5em rgba(144, 144, 144, 0.25);">
+        </div>
       </center>
+      </div>
+      </div>
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
