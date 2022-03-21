@@ -47,6 +47,7 @@ github_username:  noriakis
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+  <mark>Nephrology</mark>
   <mark>R</mark>
   <mark>Python</mark>
 
@@ -87,7 +88,7 @@ content:
       </div>
       </div>
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
