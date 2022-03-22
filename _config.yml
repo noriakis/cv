@@ -47,9 +47,11 @@ github_username:  noriakis
 # about_title: About Me
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
+  <center>
   <mark>Nephrology</mark>
   <mark>R</mark>
   <mark>Python</mark>
+  </center>
 
 content:
   - title: Packages
@@ -92,8 +94,9 @@ content:
         </div>
       </center>
       </div>
-      </div>
       </a>
+
+      </div>
       </center>
 # Footer
 footer_show_references: false
