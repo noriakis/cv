@@ -57,13 +57,12 @@ content:
   - title: Packages
     layout: text
     content: | 
-      <center>
-      <div style="display: flex">
+      <div align="center" style="display: flex">
 
-      <a href="https://github.com/noriakis/CBNplot">
       <div>
       <center>CBNplot</center>
       <center>
+        <a href="https://github.com/noriakis/CBNplot">
         <div style="
         background-image: url('https://github.com/noriakis/software/blob/main/images/CBNplot_readme_3.png?raw=true');
         background-size: 500px 500px;
@@ -74,14 +73,15 @@ content:
         background-clip: content-box;
         border: solid 0.5em rgba(144, 144, 144, 0.25);">
        </div>
+       </a>
       </center>
       </div>
       </a>
 
-      <a href="https://github.com/noriakis/wcGeneSummary">
       <div>
       <center>wcGeneSummary</center>
       <center>
+        <a href="https://github.com/noriakis/wcGeneSummary">
         <div style="
         background-image: url('https://github.com/noriakis/wcGeneSummary/blob/main/images/erccWc.png?raw=true');
         background-size: 500px 500px;
@@ -92,12 +92,12 @@ content:
         background-clip: content-box;
         border: solid 0.5em rgba(144, 144, 144, 0.25);">
         </div>
+        </a>
       </center>
       </div>
-      </a>
 
       </div>
-      </center>
+
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
