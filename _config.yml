@@ -57,7 +57,7 @@ content:
   - title: Packages
     layout: text
     content: | 
-      <div align="center" style="display: flex">
+      <div style="display: flex; justify-content: center;">
 
       <div>
       <center>CBNplot</center>
@@ -76,7 +76,6 @@ content:
        </a>
       </center>
       </div>
-      </a>
 
       <div>
       <center>wcGeneSummary</center>
