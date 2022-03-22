@@ -48,7 +48,6 @@ github_username:  noriakis
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   <center>
-  I'm interested in developing packages that help data mining of transcriptome datasets, which support the basic experiments.  
   <mark>Nephrology</mark>
   <mark>R</mark>
   <mark>Python</mark>
