@@ -95,6 +95,24 @@ content:
       </center>
       </div>
 
+      <div>
+      <center>Uncertainty in CAM</center>
+      <center>
+        <a href="https://github.com/noriakis/cam-uncertainty">
+        <div style="
+        background-image: url('https://github.com/noriakis/cam-uncertainty/blob/main/images/example_ecg.png?raw=true');
+        background-size: 500px;
+        background-position: 290px;
+        width: 200px;
+        height: 200px;
+        border-radius: 100%;
+        background-clip: content-box;
+        border: solid 0.5em rgba(144, 144, 144, 0.25);">
+        </div>
+        </a>
+      </center>
+      </div>
+
       </div>
 
 # Footer
